@@ -25,7 +25,7 @@ deploy:
   skip_cleanup: true
   overwrite: true
   provider: `
-  api_key: $woee
+  api_key: $ woee
   file: ".pio/build/nodemcuv2/firmware.bin"
   on:
     repo: danis504/workshop
