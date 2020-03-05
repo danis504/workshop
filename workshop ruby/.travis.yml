@@ -28,5 +28,4 @@ deploy:
   api_key: $woee
   file: ".pio/build/nodemcuv2/firmware.bin"
   on:
-    repo: danis504/workshop
     all_branches: true
